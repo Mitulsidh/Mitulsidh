@@ -1,16 +1,57 @@
-### Hi there 👋
 
-<!--
-**Mitulsidh/Mitulsidh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mitul! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a System Engineer (Data Science) at Infosys Ltd.
+
+
+## 🛠 Skills
+Swift, UIKit, SwiftUI, Python, Data science, Java
+
+
+# StoreSearch Project
+
+## content
+
+- MVC design Pattern
+- API call using URLSession, JSON
+- Simple UIKit components
+- UITableView
+- FCustom cell using nib
+- Light and Dark Mode
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/Mitulsidh/StoreSearchProject/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2016.07.48%202.png)
+
+
+# TwitterClone Project
+
+Twitter clone app using simple SwiftUI  and FireBase components
+
+## content
+
+
+- MVVM design Pattern
+- HStack, VStack, ZStack
+- ScrollView
+- TabView
+- Navigation Link
+## Screenshots
+
+![App Screenshot](https://github.com/Mitulsidh/TwitterClone/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2020.00.23%202.png)
+
+# CheckList Project
+
+## content
+
+
+- UITableView
+- Navigation Controller
+- UserDefault Data persistence
+- Local Notification
+## Screenshots
+
+![App Screenshot](https://github.com/Mitulsidh/ChecklistProject/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2015.09.51%202.png)
