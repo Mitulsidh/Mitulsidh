@@ -55,4 +55,4 @@ Twitter clone app using simple SwiftUI  and FireBase components
 - Local Notification
 ## Screenshots
 
-![App Screenshot](https://github.com/Mitulsidh/ChecklistProject/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2015.09.51%202.png)
+![App Screenshot](https://github.com/Mitulsidh/ChecklistProject/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2015.09.51%202-min.png)
