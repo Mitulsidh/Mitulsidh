@@ -18,7 +18,7 @@ Swift, UIKit, SwiftUI, Python, Data science, Java
 - API call using URLSession, JSON
 - Simple UIKit components
 - UITableView
-- FCustom cell using nib
+- Custom cell using nib
 - Light and Dark Mode
 
 
@@ -50,7 +50,8 @@ Twitter clone app using simple SwiftUI  and FireBase components
 
 - UITableView
 - Navigation Controller
-- UserDefault Data persistence
+- UserDefault 
+- Data persistence using Plist file
 - Local Notification
 ## Screenshots
 
