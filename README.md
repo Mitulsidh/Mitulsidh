@@ -24,7 +24,7 @@ Swift, UIKit, SwiftUI, Python, Data science, Java
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Mitulsidh/StoreSearchProject/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2016.07.48%202.png)
+![App Screenshot](https://github.com/Mitulsidh/StoreSearchProject/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2016.07.48%202-min.png)
 
 
 # TwitterClone Project
