@@ -41,7 +41,7 @@ Twitter clone app using simple SwiftUI  and FireBase components
 - Navigation Link
 ## Screenshots
 
-![App Screenshot](https://github.com/Mitulsidh/TwitterClone/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2020.00.23%202.png)
+![App Screenshot](https://github.com/Mitulsidh/TwitterClone/blob/main/images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-08-16%20at%2020.00.23%202-min.png)
 
 # CheckList Project
 
